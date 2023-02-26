@@ -1,0 +1,22 @@
+{
+  "name": "ani-vite",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "libpag": "^4.1.43",
+    "lottie-web": "^5.10.2",
+    "svga": "^2.0.7",
+    "svgaplayerweb": "^2.3.2",
+    "vue": "^3.2.45"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "vite": "^4.1.0"
+  }
+}
